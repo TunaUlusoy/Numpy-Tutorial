@@ -12,5 +12,3 @@ Numpy is a general-purpose array-processing package. It provides a high-performa
 &nbsp;&nbsp;&nbsp;&nbsp; * Element-Wise Multiplication & Dot Product <br />
 &nbsp;&nbsp;&nbsp;&nbsp; * Comparison Operators <br />
 &nbsp;&nbsp;&nbsp;&nbsp; * Sorting Arrays <br />
-
-![numpy](https://user-images.githubusercontent.com/22809891/160057630-0ac7ed7e-8d1b-48e9-a802-8ee852483fb7.jpg)
